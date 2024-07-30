@@ -2,7 +2,7 @@
 This organisation holds the source code for internal systems at WeDoPlay. Projects are for the sole use of WeDoPlay employees, and any contributions made are to be for the improvement of internal processes. 
 
 ## Contributing
-If you would like access to, or would like to contribute to any of these projects, you can email Ollie Beenham ([ollie.beenham@flipout.co.uk](mailto:ollie.beenham@flipout.co.uk)) for access. 
+If you would like access to, or would like to contribute to any of these projects, you can email Ollie Beenham ([support@beenhamow.co.uk](mailto:support@beenhamow.co.uk)) for access. 
 
 ## Maintaining
 These projects have been designed and documented to support the current internal processes at the company. If thsee processes chance, it is likely these processes would also need to change along with them. 
